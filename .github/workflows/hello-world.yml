@@ -7,5 +7,5 @@ jobs:
      - name: my-step
        run: echo "Hello World!"
      - name: my-name
-       run: echo "Harini"
+       run: echo "Harini - 24CB016"
        
